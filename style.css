@@ -6,9 +6,12 @@
 .para{
     font-size: 20px;
     font-family: fantasy;
-    color: rgb(26, 13, 212);
+    color: rgb(184, 200, 201);
 }
 .button{
     font-size: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{
+    background-color: blue;
 }
