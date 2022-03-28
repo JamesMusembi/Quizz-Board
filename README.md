@@ -14,6 +14,8 @@
 
 [figma link](https://www.figma.com/file/Fe9WYIdbuwDDyolJ5CUJeR/quiz?node-id=2%3A2)
 
+<img src="https://github.com/JamesMusembi/Quizz Board/blob/master/image/fig.png" height="250" width ="250">
+
 
 ## Installation
 
