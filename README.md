@@ -61,3 +61,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 [Go Back to the top](#portfolio)
+
+
+## Authors Info
+
+Slack Profile - James Musembi
+
